@@ -1,0 +1,1 @@
+Just like the About section says, this is a simple brick breaker game I started making at work. It still needs a lot of fixes/updates/cleaning to get it to where I want it to be, and I probably won't have time to update it until the end of June, but it IS totally playable if you want to try it out!
